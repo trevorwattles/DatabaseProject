@@ -634,6 +634,7 @@ Rough, grayscale, low-fidelity sketches. They capture layout and content, not fi
 - Multi-location + transfers between locations
 - Prep batch production (`prep_out` raw ingredients → `prep_in` prepped item)
 - Postgres Row-Level Security
+- Correcting movements for Square orders edited after completion (diff order versions)
 
 ---
 
