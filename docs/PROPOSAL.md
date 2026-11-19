@@ -639,7 +639,7 @@ Rough, grayscale, low-fidelity sketches. They capture layout and content, not fi
 
 ## 9. Daily goals
 
-> ⚠️ **Confirm end-of-class date:** this schedule assumes the last day of class is **Thursday, Dec 10, 2026**. Check it against the course calendar and adjust if needed.
+> ✅ **End-of-class date confirmed:** the last day of class is **Thursday, Dec 10, 2026**.
 
 Rest days: Sundays and Thanksgiving (Thu Nov 26). Light days: Wed Nov 25 and Fri Nov 27. The risky parts (Square OAuth, webhooks, schema) come in the first week.
 
@@ -674,7 +674,7 @@ Rest days: Sundays and Thanksgiving (Thu Nov 26). Light days: Wed Nov 25 and Fri
 ## 10. Open questions / decisions
 
 1. **Name.** Keep "ParLevel" or rename?
-2. **End-of-class date.** Confirm Dec 10 (see the schedule note).
+2. ~~**End-of-class date.** Confirm Dec 10.~~ Confirmed: Thu Dec 10, 2026.
 3. **Auth provider.** Auth.js (users in my DB) vs. Clerk (faster setup)? Defaulting to Auth.js.
 4. **ORM.** Drizzle vs. Prisma? Defaulting to Drizzle for SQL-first migrations.
 5. **Neon vs. Supabase.** Supabase would bundle auth and storage (for waste/invoice photos) but adds coupling. Defaulting to Neon.

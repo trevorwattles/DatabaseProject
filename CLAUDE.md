@@ -6,7 +6,7 @@ Context for Claude Code sessions in this repo.
 
 **ParLevel** (working name): inventory tracking and auto-purchasing for small restaurants (1–5 locations) using **Square POS**. Square sales webhooks deplete inventory through recipe mappings. Waste logs, deliveries, and physical counts also write to the ledger. The headline feature is the **variance report** (expected vs. counted, in units and $). Low stock auto-drafts purchase orders grouped by supplier.
 
-This is a BYU CS 452 (Database Modeling) final project: a 30–40 hour budget, ending ~Dec 10, 2026. Data modeling quality matters most.
+This is a BYU CS 452 (Database Modeling) final project: a 30–40 hour budget, last day of class Thu Dec 10, 2026 (confirmed). Data modeling quality matters most.
 
 ## Stack
 
