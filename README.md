@@ -4,7 +4,7 @@
 
 **POS-driven inventory tracking and auto-reordering for small restaurants.** Connect Square, map your recipes once, and ParLevel depletes inventory with every sale, shows exactly where food cost is leaking, and drafts your supplier orders.
 
-*BYU CS 452 (Database Modeling Concepts) final project. "ParLevel" is a working name.*
+*BYU CS 452 (Database Modeling Concepts) final project.*
 
 ## 📄 Planning docs
 

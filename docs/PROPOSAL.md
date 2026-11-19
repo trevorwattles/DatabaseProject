@@ -2,7 +2,7 @@
 
 > **One-line pitch:** Connect your Square POS, map your recipes once, and ParLevel tracks every ingredient automatically, tells you exactly where money is leaking, and drafts your supplier orders for you.
 
-*CS 452 Final Project · Initial planning document · Working name "ParLevel" (may change)*
+*CS 452 Final Project · Initial planning document*
 
 ### TL;DR for classmates
 
@@ -673,7 +673,7 @@ Rest days: Sundays and Thanksgiving (Thu Nov 26). Light days: Wed Nov 25 and Fri
 
 ## 10. Open questions / decisions
 
-1. **Name.** Keep "ParLevel" or rename?
+1. ~~**Name.** Keep "ParLevel" or rename?~~ Decided: keeping ParLevel.
 2. ~~**End-of-class date.** Confirm Dec 10.~~ Confirmed: Thu Dec 10, 2026.
 3. **Auth provider.** Auth.js (users in my DB) vs. Clerk (faster setup)? Defaulting to Auth.js.
 4. **ORM.** Drizzle vs. Prisma? Defaulting to Drizzle for SQL-first migrations.
