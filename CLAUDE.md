@@ -35,6 +35,13 @@ Auth + one org/location → Square OAuth + menu import → ingredients/units/sup
 
 Stretch only if ahead: AI invoice scanning, emailing POs, NL questions, forecasting, multi-location, prep batches, RLS.
 
+## Decisions (planning phase)
+
+- Completed Square orders edited after completion: MVP does not change inventory; store raw and flag it. Diffing versions is stretch.
+- Count variance uses expected on-hand as of submit time (`counted_at`). Counts are blind (expected hidden while counting).
+- Demo data: local fake-order generator for history + a few real Square sandbox orders for the webhook path.
+- Full table in `docs/PROPOSAL.md` section 10.
+
 ## Repo conventions
 
 - **Planning docs live in `docs/`**. `docs/PROPOSAL.md` is the source of truth for the ERD, flows, and schedule. Wireframes are in `docs/ux/`.

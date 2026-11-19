@@ -21,7 +21,7 @@ Small restaurants track inventory with clipboards and spreadsheets, so they run 
 7. [UX sketches](#7-ux-sketches)
 8. [MVP vs stretch scope](#8-mvp-vs-stretch-scope)
 9. [Daily goals](#9-daily-goals)
-10. [Open questions / decisions](#10-open-questions--decisions)
+10. [Decisions](#10-decisions)
 
 ---
 
@@ -671,15 +671,19 @@ Rest days: Sundays and Thanksgiving (Thu Nov 26). Light days: Wed Nov 25 and Fri
 
 ---
 
-## 10. Open questions / decisions
+## 10. Decisions
 
-1. ~~**Name.** Keep "ParLevel" or rename?~~ Decided: keeping ParLevel.
-2. ~~**End-of-class date.** Confirm Dec 10.~~ Confirmed: Thu Dec 10, 2026.
-3. **Auth provider.** Auth.js (users in my DB) vs. Clerk (faster setup)? Defaulting to Auth.js.
-4. **ORM.** Drizzle vs. Prisma? Defaulting to Drizzle for SQL-first migrations.
-5. **Neon vs. Supabase.** Supabase would bundle auth and storage (for waste/invoice photos) but adds coupling. Defaulting to Neon.
-6. **Changed orders.** If a completed Square order is edited later (new version), do I write correcting movements by diffing versions, or ignore post-completion edits for the MVP?
-7. **Expected-qty snapshot during counts.** Sales keep happening while the manager counts. Should expected be "as of submit time" or "as of when each line was counted"?
-8. **Blind counts.** Hide expected quantities from staff while counting (more honest data) or show them (faster)? Sketch assumes hidden.
-9. **Demo data.** Drive the demo with real Square sandbox orders, a local fake-order generator, or both?
-10. **Pilot.** Is there a real local shop I could show this to before the final presentation?
+All of the questions from the initial plan are settled for now. Since this is the planning phase, any of them can be revisited once building starts.
+
+| # | Question | Decision | Why |
+|---|---|---|---|
+| 1 | Name | **ParLevel** | Final |
+| 2 | End-of-class date | **Thu Dec 10, 2026** | Confirmed |
+| 3 | Auth provider | **Auth.js** | Users live in my Postgres alongside `memberships`, which is better for the data model |
+| 4 | ORM | **Drizzle** | SQL-first, readable migrations |
+| 5 | Database host | **Neon** | Plain Postgres with free branching; photos (stretch) can go to blob storage later |
+| 6 | Completed order edited later | **MVP: don't change inventory; flag it** | A newer version of a completed order is stored as raw data and flagged on the dashboard. Refunds (the common case) already write reversals. Diffing versions into correcting movements is a stretch goal |
+| 7 | Expected qty during a count | **As of submit time** | One consistent timestamp (`counted_at`), simple to explain. Best practice is to count between shifts |
+| 8 | Blind counts | **Yes, hide expected while counting** | More honest numbers, which is the point of the variance report |
+| 9 | Demo data | **Both** | A local fake-order generator builds weeks of history quickly, and a few real sandbox orders prove the webhook path end to end |
+| 10 | Pilot | **Yes, try to show it to one local shop owner** before the final presentation | Nice to have, not a dependency for the MVP |
