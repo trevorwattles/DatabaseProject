@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="600" viewBox="0 0 960 600"><style>.bg{fill:#fafafa}.b{fill:#fff;stroke:#555;stroke-width:1.5}.f{fill:#e8e8e8;stroke:#666;stroke-width:1}.d{fill:#cfcfcf;stroke:#555;stroke-width:1}.k{fill:#888;stroke:#555}.l{stroke:#bbb;stroke-width:1}.t{font:13px sans-serif;fill:#222}.s{font:11px sans-serif;fill:#666}.h{font:bold 16px sans-serif;fill:#111}.H{font:bold 22px sans-serif;fill:#111}.w{font:bold 13px sans-serif;fill:#fff}.n{font:bold 12px sans-serif;fill:#222}</style>
+<rect class="bg" width="960" height="600"/>
+<rect class="d" x="0" y="0" width="960" height="48"/><text class="h" x="20" y="30">ParLevel</text><text class="t" x="140" y="30">/ Recipes</text>
+<rect class="b" x="20" y="64" width="270" height="516" rx="6"/><text class="h" x="35" y="90">Menu items</text>
+<rect class="b" x="35" y="102" width="240" height="26" rx="4"/><text class="s" x="45" y="119">Search menu…</text>
+<rect class="d" x="30" y="138" width="250" height="34" rx="4"/><text class="n" x="40" y="160">Cheeseburger</text><text class="s" x="230" y="160">✓</text>
+<text class="t" x="40" y="196">Chicken Sandwich</text><text class="s" x="230" y="196">✓</text>
+<text class="t" x="40" y="228">Fries</text><text class="s" x="230" y="228">✓</text>
+<text class="t" x="40" y="260">Latte</text><text class="s" x="230" y="260">✓</text>
+<text class="t" x="40" y="292">Seasonal Latte</text><text class="s" x="210" y="292">! none</text>
+<text class="t" x="40" y="324">Kids Meal</text><text class="s" x="210" y="324">! none</text>
+<text class="s" x="40" y="370">Imported from Square catalog</text>
+<rect class="b" x="305" y="64" width="635" height="516" rx="6"/>
+<text class="H" x="320" y="96">Cheeseburger</text>
+<rect class="d" x="320" y="108" width="90" height="24" rx="12"/><text class="n" x="334" y="125">Regular</text>
+<rect class="f" x="418" y="108" width="80" height="24" rx="12"/><text class="t" x="436" y="125">Double</text>
+<text class="h" x="320" y="164">Ingredients per sale</text>
+<text class="n" x="320" y="190">Ingredient</text><text class="n" x="560" y="190">Qty</text><text class="n" x="640" y="190">Unit</text><text class="n" x="740" y="190">Cost</text>
+<line class="l" x1="320" y1="198" x2="920" y2="198"/>
+<rect class="b" x="320" y="206" width="220" height="24"/><text class="t" x="328" y="223">Burger bun</text><rect class="b" x="560" y="206" width="60" height="24"/><text class="t" x="568" y="223">1</text><rect class="b" x="640" y="206" width="80" height="24"/><text class="t" x="648" y="223">each ▾</text><text class="t" x="740" y="223">$0.32</text><text class="s" x="900" y="223">✕</text>
+<rect class="b" x="320" y="238" width="220" height="24"/><text class="t" x="328" y="255">Beef patty</text><rect class="b" x="560" y="238" width="60" height="24"/><text class="t" x="568" y="255">4</text><rect class="b" x="640" y="238" width="80" height="24"/><text class="t" x="648" y="255">oz ▾</text><text class="t" x="740" y="255">$1.10</text><text class="s" x="900" y="255">✕</text>
+<rect class="b" x="320" y="270" width="220" height="24"/><text class="t" x="328" y="287">Cheddar slice</text><rect class="b" x="560" y="270" width="60" height="24"/><text class="t" x="568" y="287">1</text><rect class="b" x="640" y="270" width="80" height="24"/><text class="t" x="648" y="287">each ▾</text><text class="t" x="740" y="287">$0.18</text><text class="s" x="900" y="287">✕</text>
+<rect class="b" x="320" y="302" width="220" height="24"/><text class="t" x="328" y="319">House sauce (prep)</text><rect class="b" x="560" y="302" width="60" height="24"/><text class="t" x="568" y="319">0.5</text><rect class="b" x="640" y="302" width="80" height="24"/><text class="t" x="648" y="319">oz ▾</text><text class="t" x="740" y="319">$0.06</text><text class="s" x="900" y="319">✕</text>
+<text class="t" x="320" y="352">+ Add ingredient</text>
+<text class="h" x="320" y="396">Modifiers</text>
+<text class="n" x="320" y="422">Modifier</text><text class="n" x="500" y="422">Ingredient</text><text class="n" x="680" y="422">Change</text>
+<line class="l" x1="320" y1="430" x2="920" y2="430"/>
+<text class="t" x="320" y="454">Extra cheese</text><text class="t" x="500" y="454">Cheddar slice</text><text class="t" x="680" y="454">+1 each</text>
+<text class="t" x="320" y="482">No onion</text><text class="t" x="500" y="482">Red onion</text><text class="t" x="680" y="482">−0.25 oz</text>
+<text class="t" x="320" y="512">+ Add modifier rule</text>
+<rect class="f" x="320" y="530" width="400" height="36" rx="4"/><text class="n" x="332" y="553">Plate cost $1.66 · Price $7.49 · Food cost 22%</text>
+<rect class="k" x="820" y="532" width="100" height="32" rx="4"/><text class="w" x="848" y="553">Save</text>
+</svg>

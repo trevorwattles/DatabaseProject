@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="600" viewBox="0 0 960 600"><style>.bg{fill:#fafafa}.b{fill:#fff;stroke:#555;stroke-width:1.5}.f{fill:#e8e8e8;stroke:#666;stroke-width:1}.d{fill:#cfcfcf;stroke:#555;stroke-width:1}.k{fill:#888;stroke:#555}.l{stroke:#bbb;stroke-width:1}.t{font:13px sans-serif;fill:#222}.s{font:11px sans-serif;fill:#666}.h{font:bold 16px sans-serif;fill:#111}.H{font:bold 22px sans-serif;fill:#111}.w{font:bold 13px sans-serif;fill:#fff}.n{font:bold 12px sans-serif;fill:#222}</style>
+<rect class="bg" width="960" height="600"/>
+<rect class="d" x="0" y="0" width="960" height="48"/><text class="h" x="20" y="30">ParLevel</text><text class="t" x="140" y="30">/ Reports / Variance</text>
+<text class="H" x="20" y="90">Variance Report</text>
+<rect class="b" x="560" y="68" width="200" height="28" rx="4"/><text class="t" x="572" y="87">Oct 19 – Nov 15 ▾</text>
+<rect class="b" x="770" y="68" width="170" height="28" rx="4"/><text class="t" x="782" y="87">All categories ▾</text>
+<rect class="b" x="20" y="110" width="440" height="110" rx="6"/>
+<text class="s" x="36" y="136">Unexplained loss (counted vs expected)</text>
+<text class="H" x="36" y="176">−$1,240</text>
+<text class="t" x="36" y="204">“Chicken is $610 short that sales and waste don’t explain.”</text>
+<rect class="b" x="475" y="110" width="465" height="110" rx="6"/>
+<text class="s" x="490" y="136">Where inventory went</text>
+<rect class="k" x="490" y="150" width="300" height="22"/><text class="s" x="490" y="190">Sales 81%</text>
+<rect class="d" x="790" y="150" width="50" height="22"/><text class="s" x="790" y="190">Waste</text>
+<rect class="f" x="840" y="150" width="85" height="22"/><text class="s" x="840" y="190">Unexplained</text>
+<text class="h" x="20" y="256">Top variances</text>
+<text class="n" x="20" y="286">Ingredient</text><text class="n" x="210" y="286">Expected</text><text class="n" x="320" y="286">Counted</text><text class="n" x="430" y="286">Variance</text><text class="n" x="540" y="286">Variance $</text><text class="n" x="660" y="286">Size</text>
+<line class="l" x1="20" y1="294" x2="940" y2="294"/>
+<text class="t" x="20" y="320">Chicken breast</text><text class="t" x="210" y="320">142 lb</text><text class="t" x="320" y="320">96 lb</text><text class="t" x="430" y="320">−46 lb</text><text class="n" x="540" y="320">−$610</text><rect class="k" x="660" y="308" width="240" height="14"/>
+<text class="t" x="20" y="352">Ground beef</text><text class="t" x="210" y="352">88 lb</text><text class="t" x="320" y="352">71 lb</text><text class="t" x="430" y="352">−17 lb</text><text class="n" x="540" y="352">−$298</text><rect class="k" x="660" y="340" width="117" height="14"/>
+<text class="t" x="20" y="384">Avocado</text><text class="t" x="210" y="384">60 ea</text><text class="t" x="320" y="384">38 ea</text><text class="t" x="430" y="384">−22 ea</text><text class="n" x="540" y="384">−$187</text><rect class="k" x="660" y="372" width="74" height="14"/>
+<text class="t" x="20" y="416">Cheddar slices</text><text class="t" x="210" y="416">610 ea</text><text class="t" x="320" y="416">540 ea</text><text class="t" x="430" y="416">−70 ea</text><text class="n" x="540" y="416">−$126</text><rect class="k" x="660" y="404" width="50" height="14"/>
+<text class="t" x="20" y="448">Oat milk</text><text class="t" x="210" y="448">40 qt</text><text class="t" x="320" y="448">41 qt</text><text class="t" x="430" y="448">+1 qt</text><text class="n" x="540" y="448">+$3</text><rect class="f" x="660" y="436" width="4" height="14"/>
+<line class="l" x1="20" y1="466" x2="940" y2="466"/>
+<text class="s" x="20" y="494">Expected = last count + deliveries − sales − waste (from the stock ledger). $ uses weighted average cost.</text>
+<rect class="f" x="20" y="520" width="140" height="34" rx="4"/><text class="t" x="44" y="542">Export CSV</text>
+<rect class="f" x="170" y="520" width="200" height="34" rx="4"/><text class="t" x="188" y="542">View ledger for item →</text>
+</svg>

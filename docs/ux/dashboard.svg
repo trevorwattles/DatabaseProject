@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="600" viewBox="0 0 960 600"><style>.bg{fill:#fafafa}.b{fill:#fff;stroke:#555;stroke-width:1.5}.f{fill:#e8e8e8;stroke:#666;stroke-width:1}.d{fill:#cfcfcf;stroke:#555;stroke-width:1}.k{fill:#888;stroke:#555}.l{stroke:#bbb;stroke-width:1}.t{font:13px sans-serif;fill:#222}.s{font:11px sans-serif;fill:#666}.h{font:bold 16px sans-serif;fill:#111}.H{font:bold 22px sans-serif;fill:#111}.w{font:bold 13px sans-serif;fill:#fff}.n{font:bold 12px sans-serif;fill:#222}</style>
+<rect class="bg" width="960" height="600"/>
+<rect class="d" x="0" y="0" width="960" height="48"/>
+<text class="h" x="20" y="30">ParLevel</text>
+<rect class="b" x="700" y="12" width="160" height="24" rx="4"/><text class="t" x="710" y="29">Main St Café ▾</text>
+<circle class="f" cx="905" cy="24" r="14"/><text class="s" x="898" y="28">TW</text>
+<rect class="f" x="0" y="48" width="170" height="552"/>
+<rect class="d" x="10" y="64" width="150" height="28" rx="4"/><text class="n" x="22" y="83">Dashboard</text>
+<text class="t" x="22" y="121">Inventory</text><text class="t" x="22" y="151">Recipes</text><text class="t" x="22" y="181">Counts</text><text class="t" x="22" y="211">Waste</text><text class="t" x="22" y="241">Purchase Orders</text><text class="t" x="22" y="271">Reports</text><text class="t" x="22" y="301">Settings</text>
+<text class="H" x="195" y="88">Dashboard</text><text class="s" x="195" y="106">Updated live from Square sales</text>
+<rect class="b" x="195" y="122" width="175" height="80" rx="6"/><text class="s" x="207" y="144">Inventory value</text><text class="H" x="207" y="180">$8,420</text>
+<rect class="b" x="382" y="122" width="175" height="80" rx="6"/><text class="s" x="394" y="144">Low stock items</text><text class="H" x="394" y="180">6</text>
+<rect class="b" x="569" y="122" width="175" height="80" rx="6"/><text class="s" x="581" y="144">Unmapped POS items</text><text class="H" x="581" y="180">3 !</text>
+<rect class="b" x="756" y="122" width="180" height="80" rx="6"/><text class="s" x="768" y="144">Waste this week</text><text class="H" x="768" y="180">$212</text>
+<rect class="b" x="195" y="218" width="460" height="360" rx="6"/><text class="h" x="210" y="244">Low stock</text>
+<rect class="k" x="545" y="228" width="98" height="26" rx="4"/><text class="w" x="556" y="246">Draft POs</text>
+<text class="n" x="210" y="278">Ingredient</text><text class="n" x="380" y="278">On hand</text><text class="n" x="465" y="278">Reorder</text><text class="n" x="555" y="278">Par</text>
+<line class="l" x1="205" y1="286" x2="645" y2="286"/>
+<text class="t" x="210" y="310">Chicken breast</text><text class="t" x="380" y="310">8 lb</text><text class="t" x="465" y="310">15 lb</text><text class="t" x="555" y="310">40 lb</text>
+<text class="t" x="210" y="340">Burger buns</text><text class="t" x="380" y="340">22 ea</text><text class="t" x="465" y="340">48 ea</text><text class="t" x="555" y="340">144 ea</text>
+<text class="t" x="210" y="370">Cheddar slices</text><text class="t" x="380" y="370">30 ea</text><text class="t" x="465" y="370">60 ea</text><text class="t" x="555" y="370">200 ea</text>
+<text class="t" x="210" y="400">Oat milk</text><text class="t" x="380" y="400">2 qt</text><text class="t" x="465" y="400">6 qt</text><text class="t" x="555" y="400">16 qt</text>
+<text class="t" x="210" y="430">To-go cups 16oz</text><text class="t" x="380" y="430">90 ea</text><text class="t" x="465" y="430">200 ea</text><text class="t" x="555" y="430">500 ea</text>
+<text class="t" x="210" y="460">Fry oil</text><text class="t" x="380" y="460">1 jug</text><text class="t" x="465" y="460">2 jug</text><text class="t" x="555" y="460">6 jug</text>
+<rect class="b" x="670" y="218" width="266" height="160" rx="6"/><text class="h" x="685" y="244">Unmapped items</text>
+<text class="t" x="685" y="276">Seasonal Latte (L)</text><rect class="f" x="850" y="262" width="72" height="22" rx="4"/><text class="s" x="862" y="277">Map →</text>
+<text class="t" x="685" y="308">Spicy Mayo (mod)</text><rect class="f" x="850" y="294" width="72" height="22" rx="4"/><text class="s" x="862" y="309">Map →</text>
+<text class="t" x="685" y="340">Kids Meal</text><rect class="f" x="850" y="326" width="72" height="22" rx="4"/><text class="s" x="862" y="341">Map →</text>
+<rect class="b" x="670" y="390" width="266" height="188" rx="6"/><text class="h" x="685" y="416">Recent activity</text>
+<text class="s" x="685" y="444">2:41p  sale  −4 oz beef</text><text class="s" x="685" y="468">2:41p  sale  −1 bun</text><text class="s" x="685" y="492">1:15p  waste  −2 lb chicken</text><text class="s" x="685" y="516">9:02a  delivery  +40 lb chicken</text><text class="s" x="685" y="540">Mon  count adj  −3 lb beef</text>
+</svg>

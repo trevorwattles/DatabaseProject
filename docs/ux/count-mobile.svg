@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="360" height="720" viewBox="0 0 360 720"><style>.bg{fill:#fafafa}.b{fill:#fff;stroke:#555;stroke-width:1.5}.f{fill:#e8e8e8;stroke:#666;stroke-width:1}.d{fill:#cfcfcf;stroke:#555;stroke-width:1}.k{fill:#888;stroke:#555}.l{stroke:#bbb;stroke-width:1}.t{font:13px sans-serif;fill:#222}.s{font:11px sans-serif;fill:#666}.h{font:bold 16px sans-serif;fill:#111}.H{font:bold 22px sans-serif;fill:#111}.w{font:bold 13px sans-serif;fill:#fff}.n{font:bold 12px sans-serif;fill:#222}</style>
+<rect class="bg" width="360" height="720"/>
+<rect class="b" x="5" y="5" width="350" height="710" rx="24"/>
+<rect class="d" x="5" y="5" width="350" height="64" rx="24"/><rect class="d" x="5" y="40" width="350" height="29"/>
+<text class="s" x="20" y="36">‹ Counts</text><text class="h" x="20" y="60">Weekly Count · Walk-in</text>
+<text class="s" x="20" y="92">12 of 40 counted</text>
+<rect class="f" x="20" y="100" width="320" height="8" rx="4"/><rect class="k" x="20" y="100" width="96" height="8" rx="4"/>
+<rect class="b" x="20" y="120" width="320" height="30" rx="6"/><text class="s" x="32" y="140">Search or scan…</text>
+<text class="n" x="20" y="176">PROTEINS</text>
+<rect class="b" x="20" y="186" width="320" height="72" rx="8"/><text class="n" x="32" y="208">Chicken breast</text><text class="s" x="32" y="226">Count in: lb · case = 40 lb</text>
+<rect class="f" x="190" y="218" width="30" height="30" rx="4"/><text class="h" x="200" y="239">−</text><rect class="b" x="225" y="218" width="70" height="30" rx="4"/><text class="h" x="245" y="239">12.5</text><rect class="f" x="300" y="218" width="30" height="30" rx="4"/><text class="h" x="309" y="239">+</text>
+<rect class="b" x="20" y="268" width="320" height="72" rx="8"/><text class="n" x="32" y="290">Ground beef</text><text class="s" x="32" y="308">Count in: lb</text>
+<rect class="f" x="190" y="300" width="30" height="30" rx="4"/><text class="h" x="200" y="321">−</text><rect class="b" x="225" y="300" width="70" height="30" rx="4"/><text class="s" x="240" y="320">— lb</text><rect class="f" x="300" y="300" width="30" height="30" rx="4"/><text class="h" x="309" y="321">+</text>
+<text class="n" x="20" y="370">DAIRY</text>
+<rect class="b" x="20" y="380" width="320" height="72" rx="8"/><text class="n" x="32" y="402">Cheddar slices</text><text class="s" x="32" y="420">Count in: each · pack = 120</text>
+<rect class="f" x="190" y="412" width="30" height="30" rx="4"/><text class="h" x="200" y="433">−</text><rect class="b" x="225" y="412" width="70" height="30" rx="4"/><text class="h" x="245" y="433">84</text><rect class="f" x="300" y="412" width="30" height="30" rx="4"/><text class="h" x="309" y="433">+</text>
+<rect class="b" x="20" y="462" width="320" height="72" rx="8"/><text class="n" x="32" y="484">Oat milk</text><text class="s" x="32" y="502">Count in: qt</text>
+<rect class="f" x="190" y="494" width="30" height="30" rx="4"/><text class="h" x="200" y="515">−</text><rect class="b" x="225" y="494" width="70" height="30" rx="4"/><text class="s" x="240" y="514">— qt</text><rect class="f" x="300" y="494" width="30" height="30" rx="4"/><text class="h" x="309" y="515">+</text>
+<text class="s" x="20" y="566">Blind count: expected qty hidden until submit</text>
+<rect class="f" x="20" y="600" width="150" height="44" rx="8"/><text class="n" x="52" y="627">Save draft</text>
+<rect class="k" x="180" y="600" width="160" height="44" rx="8"/><text class="w" x="205" y="627">Submit count</text>
+<text class="s" x="80" y="680">Autosaves · works offline (PWA)</text>
+</svg>

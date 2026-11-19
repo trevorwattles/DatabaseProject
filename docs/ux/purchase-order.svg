@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="600" viewBox="0 0 960 600"><style>.bg{fill:#fafafa}.b{fill:#fff;stroke:#555;stroke-width:1.5}.f{fill:#e8e8e8;stroke:#666;stroke-width:1}.d{fill:#cfcfcf;stroke:#555;stroke-width:1}.k{fill:#888;stroke:#555}.l{stroke:#bbb;stroke-width:1}.t{font:13px sans-serif;fill:#222}.s{font:11px sans-serif;fill:#666}.h{font:bold 16px sans-serif;fill:#111}.H{font:bold 22px sans-serif;fill:#111}.w{font:bold 13px sans-serif;fill:#fff}.n{font:bold 12px sans-serif;fill:#222}</style>
+<rect class="bg" width="960" height="600"/>
+<rect class="d" x="0" y="0" width="960" height="48"/><text class="h" x="20" y="30">ParLevel</text><text class="t" x="140" y="30">/ Purchase Orders</text>
+<rect class="d" x="20" y="64" width="160" height="32" rx="4"/><text class="n" x="34" y="85">Sysco (4 items)</text>
+<rect class="f" x="188" y="64" width="190" height="32" rx="4"/><text class="t" x="202" y="85">Bakery Co (1 item)</text>
+<rect class="f" x="386" y="64" width="190" height="32" rx="4"/><text class="t" x="400" y="85">Costco (2 items)</text>
+<rect class="b" x="20" y="108" width="920" height="472" rx="6"/>
+<text class="H" x="36" y="142">PO-0042 · Sysco</text>
+<rect class="f" x="230" y="124" width="70" height="24" rx="12"/><text class="n" x="246" y="141">DRAFT</text>
+<text class="s" x="36" y="164">Auto-drafted Nov 19 from low stock · lead time 2 days · deliver by Sat Nov 21</text>
+<text class="n" x="36" y="200">Item</text><text class="n" x="210" y="200">SKU</text><text class="n" x="300" y="200">On hand</text><text class="n" x="385" y="200">Par</text><text class="n" x="455" y="200">Need</text><text class="n" x="530" y="200">Pack</text><text class="n" x="660" y="200">Order</text><text class="n" x="770" y="200">Line total</text>
+<line class="l" x1="36" y1="208" x2="924" y2="208"/>
+<text class="t" x="36" y="236">Chicken breast</text><text class="s" x="210" y="236">48213</text><text class="t" x="300" y="236">8 lb</text><text class="t" x="385" y="236">40 lb</text><text class="t" x="455" y="236">32 lb</text><text class="t" x="530" y="236">case 40 lb</text><rect class="b" x="660" y="220" width="60" height="24"/><text class="t" x="670" y="237">1 cs</text><text class="t" x="770" y="236">$106.00</text>
+<text class="t" x="36" y="270">Ground beef</text><text class="s" x="210" y="270">11870</text><text class="t" x="300" y="270">14 lb</text><text class="t" x="385" y="270">40 lb</text><text class="t" x="455" y="270">26 lb</text><text class="t" x="530" y="270">case 10 lb</text><rect class="b" x="660" y="254" width="60" height="24"/><text class="t" x="670" y="271">3 cs</text><text class="t" x="770" y="270">$138.00</text>
+<text class="t" x="36" y="304">Cheddar slices</text><text class="s" x="210" y="304">30551</text><text class="t" x="300" y="304">30 ea</text><text class="t" x="385" y="304">200 ea</text><text class="t" x="455" y="304">170 ea</text><text class="t" x="530" y="304">pack 120 ea</text><rect class="b" x="660" y="288" width="60" height="24"/><text class="t" x="670" y="305">2 pk</text><text class="t" x="770" y="304">$43.60</text>
+<text class="t" x="36" y="338">Fry oil</text><text class="s" x="210" y="338">70214</text><text class="t" x="300" y="338">1 jug</text><text class="t" x="385" y="338">6 jug</text><text class="t" x="455" y="338">5 jug</text><text class="t" x="530" y="338">jug 35 lb</text><rect class="b" x="660" y="322" width="60" height="24"/><text class="t" x="670" y="339">5</text><text class="t" x="770" y="338">$162.50</text>
+<text class="t" x="36" y="372">+ Add item</text>
+<line class="l" x1="36" y1="390" x2="924" y2="390"/>
+<text class="h" x="660" y="420">Total</text><text class="h" x="770" y="420">$450.10</text>
+<text class="s" x="36" y="420">Order qty = need rounded up to whole packs. Editable before sending.</text>
+<rect class="f" x="36" y="520" width="120" height="40" rx="4"/><text class="t" x="66" y="545">Discard</text>
+<rect class="f" x="600" y="520" width="150" height="40" rx="4"/><text class="t" x="618" y="545">Mark as sent</text>
+<rect class="k" x="760" y="520" width="164" height="40" rx="4"/><text class="w" x="778" y="545">Receive delivery →</text>
+<text class="s" x="560" y="500">Receiving writes delivery movements + unit cost to the ledger</text>
+</svg>
