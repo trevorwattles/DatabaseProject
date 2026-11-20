@@ -14,7 +14,7 @@
 <rect class="f" x="20" y="272" width="96" height="34" rx="17"/><text class="t" x="40" y="294">Dropped</text>
 <rect class="k" x="124" y="272" width="96" height="34" rx="17"/><text class="w" x="147" y="294">Expired</text>
 <rect class="f" x="228" y="272" width="96" height="34" rx="17"/><text class="t" x="255" y="294">Burnt</text>
-<rect class="f" x="20" y="314" width="96" height="34" rx="17"/><text class="t" x="38" y="336">Comped</text>
+<rect class="f" x="20" y="314" width="96" height="34" rx="17"/><text class="t" x="42" y="336">Spoiled</text>
 <rect class="f" x="124" y="314" width="96" height="34" rx="17"/><text class="t" x="145" y="336">Over-prep</text>
 <rect class="f" x="228" y="314" width="96" height="34" rx="17"/><text class="t" x="257" y="336">Other</text>
 <text class="n" x="20" y="380">Notes (optional)</text>
